@@ -70,6 +70,8 @@ mongodbbackup:
 
 `BACKUP_FOLDER`: - name of folder or path to put backups (eg `myapp/db_backups/`). defaults to root of bucket.
 
+`MONGODB_URI` - the connection string of your mongodb database
+
 `MONGODB_HOST` - the host/ip of your mongodb database
 
 `MONGODB_PORT` - the port number of your mongodb database
